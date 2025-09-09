@@ -1,25 +1,35 @@
-# java-exercicios-resolvidos
+# 📘 Lista de Exercícios Resolvidos - JavaScript
 
-## Lista de Exercícios:
+Esse repositório contém exercícios simples de JavaScript feitos por **Felipe Mendes**, **Yuri Martins** e **José Neto**.  
+Os exercícios foram feitos para treinar lógica de programação e os conceitos básicos da linguagem. 💻
 
-## Felipe Mendes
+---
 
-- [exercicio if-else 1.js](./exercicios/exercicio%20if-else%201.js): Uma função que retorna a soma de dois números e exibe o resultado apenas se for maior que 100.
+## 👨‍🏫 Exercícios por aluno
 
-- [exercicio if-else 2.js](./exercicios/exercicio%20if-else%202.js): Uma função para saber se um personagem morreu ou não depois de sofrer um ataque.
+### 👦 Felipe Mendes
 
-- [exercicio var 1.js](./exercicios/exercicio%20var%201.js): Uma função para saber se um personagem morreu ou não depois de sofrer um ataque.
+| Nome do Exercício | O que faz? | Link |
+|-------------------|------------|------|
+| If-Else 1 | Soma dois números e mostra o resultado **só se for maior que 100** | [Ver exercício](./exercicios/exercicio%20if-else%201.js) |
+| If-Else 2 | Verifica se um personagem **morreu ou não** após levar um ataque | [Ver exercício](./exercicios/exercicio%20if-else%202.js) |
+| Var 1 | Mesmo exercício acima, mas com treino usando `var` | [Ver exercício](./exercicios/exercicio%20var%201.js) |
 
---
+---
 
-## Yuri Martins
+### 👦 Yuri Martins
 
-- [Análise de número](./exercicios/Análise%20de%20número.js): Uma função que verifica se o número é positivo, negativo ou zero.
+| Nome do Exercício | O que faz? | Link |
+|-------------------|------------|------|
+| Análise de Número | Verifica se o número é **positivo**, **negativo** ou **zero** | [Ver exercício](./exercicios/Análise%20de%20número.js) |
+| Exercício de Array | Lê 10 números e **ordena em ordem crescente** | [Ver exercício](./exercicios/Exercício%20de%20Array.js) |
+| Tabuada | Mostra a **tabuada de 1 número até 10** | [Ver exercício](./exercicios/Exercício%20de%20tabuada.js) |
 
-- [Exercício de Array](./exercicios/Exercício%20de%20Array.js): Uma função que lê um vetor de dez números e os ordena em ordem crescente.
+---
 
-- [Exercício de tabuada](./exercicios/Exercício%20de%20tabuada.js): Uma função para fazer a tabuada até dez de um número.
+### 👦 José Neto
 
+🚧 Ainda não adicionou os exercícios.
 
-## José Neto
+---
 
