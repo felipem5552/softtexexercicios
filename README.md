@@ -1,7 +1,6 @@
 # 📘 Lista de Exercícios Resolvidos - JavaScript
 
 Esse repositório contém exercícios simples de JavaScript feitos por **Felipe Mendes**, **Yuri Martins** e **José Neto**.  
-Os exercícios foram feitos para treinar lógica de programação e os conceitos básicos da linguagem. 💻
 
 ---
 
