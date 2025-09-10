@@ -32,8 +32,8 @@ Esse repositório contém exercícios simples de JavaScript feitos por **Felipe 
 |-----------------------------|------------------------------------------------------------------------------|------|
 | Exercício Var 1.1           | Exibe três números fixos na tela.                                           | [Ver exercício](./exercicios/Exercício%20Var%201.1.js) |
 | Exercício de Var e Prompt   | Calcula quantas laranjas serão vendidas (com base em caixas) e o total a receber. | [Ver exercício](./exercicios/Exercicio%20de%20Var%20e%20Prompt.js) |
-| Exercício de Var e Prompt 2 | Lê três números informados pelo usuário e os exibe na tela.                 | [Ver exercício](./exercicios/Exercicio%20de%20Var%20e%20Prompt%202.js) |
-| Exercício de Var e Prompt 3 | Lê dois números, soma-os e exibe o resultado apenas se for maior que 100.   | [Ver exercício](./exercicios/Exercicio%20de%20Var%20e%20Prompt%203.js) |
+| Exercício de Var e Prompt 2 | Lê três números informados pelo usuário e os exibe na tela.                 | [Ver exercício](./exercicios/Exercício%20Var%20e%20Prompt%202.js) |
+| Exercício de Var e Prompt 3 | Lê dois números, soma-os e exibe o resultado apenas se for maior que 100.   | [Ver exercício](./exercicios/Exercício%20Var%20e%20Prompt%203.js) |
 
 
 ---
